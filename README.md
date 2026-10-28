@@ -1,5 +1,7 @@
 # THU-OOP
 
+[![CI](https://github.com/gmh06/THU-OOP/actions/workflows/ci.yml/badge.svg)](https://github.com/gmh06/THU-OOP/actions/workflows/ci.yml)
+
 清华大学面向对象程序设计基础课程作业与考试练习。
 
 ## 内容
