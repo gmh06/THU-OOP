@@ -1,0 +1,14 @@
+build/
+__pycache__/
+*.py[cod]
+*.exe
+*.o
+*.obj
+.DS_Store
+.vscode/
+.env
+.env.*
+!.env.example
+**/main
+**/explore_system
+**/game_skill
